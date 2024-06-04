@@ -158,11 +158,11 @@ Companies in the NFT industry, both OMA3 members and non-members, are encouraged
     1.9 MAY differentiate between internal and peer to peer wallet transfers
     1.10 SHALL encompass royalty splitting use cases
     1.11 MAY introduce a reputation point system
-  2. NFT contract types
+2. NFT contract types
     2.1 SHALL apply to new NFT contracts
     2.2 SHALL apply to upgradeable existing NFT contracts
     2.3 SHOULD apply to non-upgradeable existing NFT contracts
-  3. Compatibility
+3. Compatibility
     3.1 MAY work with NFTs bridged to other chains
     3.2 SHALL be consistent with the base ERC-721 standard
     3.3 SHALL honor the underlying legal framework of the NFTs in question
@@ -171,13 +171,13 @@ Companies in the NFT industry, both OMA3 members and non-members, are encouraged
     3.5 SHALL support the Solana Metaplex standard
     3.6 SHOULD support the Solana 404 standard
     3.7 MAY support Bitcoin NFT standards that include royalties
-  4. Governance
+4. Governance
     4.1 SHALL have the same level of or more decentralization than OMA3 governance
     4.2 MAY have governance controlled by OMA3
-  5. Privacy
+5. Privacy
     5.1 MAY protect user privacy
     5.2 MAY allow users to control data associated with them
-  6. Cybersecurity
+6. Cybersecurity
     6.1 SHOULD use “battle tested” code wherever possible
     6.2 SHALL undergo audits and penetration tests
     6.3 SHALL support multisig access control
