@@ -147,38 +147,38 @@ Terminology definitions can be found in Section 5 of the [OMA3 Working Group Pro
 Companies in the NFT industry, both OMA3 members and non-members, are encouraged to submit proposals that address any of the above use cases and adhere to the following requirements. OMA3 utilizes a [point system](https://github.com/oma3dao/token-litepaper) to help compensate OMA3 members for the contributing time and technology to OMA3.  Points are used to calculate allocation of OMA3 fungible tokens.
 
   1. Use cases
-      1.1 SHALL address the base sales use case 
-      1.2 SHALL address the high frequency trading use case in a manner that is fair to both Creators and Holders
-      1.3 SHOULD address the NFT bundling use case
-      1.4 MAY address the NFT loan default use case
-      1.5 MAY address the NFT fractionalization use case
-      1.6 MAY address the NFT renting use case
-      1.7 MAY address the NFT swapping use case
-      1.8 MAY address the NFT loyalty point use case
-      1.9 MAY differentiate between internal and peer to peer wallet transfers
-      1.10 SHALL encompass royalty splitting use cases
-      1.11 MAY introduce a reputation point system
+     1.1 SHALL address the base sales use case 
+     1.2 SHALL address the high frequency trading use case in a manner that is fair to both Creators and Holders
+     1.3 SHOULD address the NFT bundling use case
+     1.4 MAY address the NFT loan default use case
+     1.5 MAY address the NFT fractionalization use case
+     1.6 MAY address the NFT renting use case
+     1.7 MAY address the NFT swapping use case
+     1.8 MAY address the NFT loyalty point use case
+     1.9 MAY differentiate between internal and peer to peer wallet transfers
+     1.10 SHALL encompass royalty splitting use cases
+     1.11 MAY introduce a reputation point system
   2. NFT contract types
-      2.1 SHALL apply to new NFT contracts
-      2.2 SHALL apply to upgradeable existing NFT contracts
-      2.3 SHOULD apply to non-upgradeable existing NFT contracts
+     2.1 SHALL apply to new NFT contracts
+     2.2 SHALL apply to upgradeable existing NFT contracts
+     2.3 SHOULD apply to non-upgradeable existing NFT contracts
   3. Compatibility
-      3.1 MAY work with NFTs bridged to other chains
-      3.2 SHALL be consistent with the base ERC-721 standard
-      3.3 SHALL honor the underlying legal framework of the NFTs in question
-          3.3.1 SHALL take into account legal systems of different jurisdictions
-      3.4 SHALL support all EVM chains
-      3.5 SHALL support the Solana Metaplex standard
-      3.6 SHOULD support the Solana 404 standard
-      3.7 MAY support Bitcoin NFT standards that include royalties
+     3.1 MAY work with NFTs bridged to other chains
+     3.2 SHALL be consistent with the base ERC-721 standard
+     3.3 SHALL honor the underlying legal framework of the NFTs in question
+         3.3.1 SHALL take into account legal systems of different jurisdictions
+     3.4 SHALL support all EVM chains
+     3.5 SHALL support the Solana Metaplex standard
+     3.6 SHOULD support the Solana 404 standard
+     3.7 MAY support Bitcoin NFT standards that include royalties
   4. Governance
-      4.1 SHALL have the same level of or more decentralization than OMA3 governance
-      4.2 MAY have governance controlled by OMA3
+     4.1 SHALL have the same level of or more decentralization than OMA3 governance
+     4.2 MAY have governance controlled by OMA3
   5. Privacy
-      5.1 MAY protect user privacy
-      5.2 MAY allow users to control data associated with them
+     5.1 MAY protect user privacy
+     5.2 MAY allow users to control data associated with them
   6. Cybersecurity
-      6.1 SHOULD use “battle tested” code wherever possible
-      6.2 SHALL undergo audits and penetration tests
-      6.3 SHALL support multisig access control
-      6.4 SHALL utilize information security management system (ISMS) software life cycle (SLC) when appropriate
+     6.1 SHOULD use “battle tested” code wherever possible
+     6.2 SHALL undergo audits and penetration tests
+     6.3 SHALL support multisig access control
+     6.4 SHALL utilize information security management system (ISMS) software life cycle (SLC) when appropriate
