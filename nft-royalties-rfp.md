@@ -128,7 +128,7 @@ Actors describe anything outside the System that interacts with the System:
 
 ## Threats
 
-For a background on the section, read Section 4 of the [OMA3 Working Group Process](https://docs.google.com/document/d/1vwR6ST2FoOzjKct06I5m6F3EZW1h2cQrSfB31kPQV0Y/).  The following is a list of mechanisms that can be used to circumvent NFT royalties.
+For a background on the section, read Section 4 of the [OMA3 Working Group Process](https://github.com/oma3dao/working-group-process).  The following is a list of mechanisms that can be used to circumvent NFT royalties.
 
   1. Peer-to-peer NFT sales:  Current Owner transfers NFT to a Buyer directly and sale proceeds happen offchain, potentially also facilitated by a discovery platform (e.g.- Craigslist).
   2. NFT Loans:  Current Owner takes out a loan and uses the NFT as collateral.  Some loans have encumbrances.
@@ -142,7 +142,7 @@ For a background on the section, read Section 4 of the [OMA3 Working Group Proce
 
 This section lists the high-level requirements derived from the use cases and threats.
 
-Terminology definitions can be found in Section 5 of the [OMA3 Working Group Process document](https://docs.google.com/document/d/1vwR6ST2FoOzjKct06I5m6F3EZW1h2cQrSfB31kPQV0Y/). 
+Terminology definitions can be found in Section 5 of the [OMA3 Working Group Process document](https://github.com/oma3dao/working-group-process). 
 
 Companies in the NFT industry, both OMA3 members and non-members, are encouraged to submit proposals that address any of the above use cases and adhere to the following requirements. OMA3 utilizes a [point system](https://github.com/oma3dao/token-litepaper) to help compensate OMA3 members for the contributing time and technology to OMA3.  Points are used to calculate allocation of OMA3 fungible tokens.
 
