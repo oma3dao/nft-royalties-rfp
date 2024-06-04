@@ -147,8 +147,8 @@ Terminology definitions can be found in Section 5 of the [OMA3 Working Group Pro
 Companies in the NFT industry, both OMA3 members and non-members, are encouraged to submit proposals that address any of the above use cases and adhere to the following requirements. OMA3 utilizes a [point system](https://github.com/oma3dao/token-litepaper) to help compensate OMA3 members for the contributing time and technology to OMA3.  Points are used to calculate allocation of OMA3 fungible tokens.
 
 ### 1. Use cases
-  i. SHALL address the base sales use case 
-     i. SHALL address the high frequency trading use case in a manner that is fair to both Creators and Holders
+  1.1. SHALL address the base sales use case 
+  1.2. SHALL address the high frequency trading use case in a manner that is fair to both Creators and Holders
 1.3 SHOULD address the NFT bundling use case
 1.4 MAY address the NFT loan default use case
 1.5 MAY address the NFT fractionalization use case
